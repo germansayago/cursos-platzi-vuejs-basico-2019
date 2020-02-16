@@ -17,7 +17,7 @@
             <router-link
               class="block lg:inline-block lg:t-0 text-teal-200 hover:text-white mr-4"
               to="/about"
-              >About</router-link
+              >ABOUT</router-link
             >
             <router-link
               v-for="l in links"
